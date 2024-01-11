@@ -11,17 +11,17 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 ### What i'm learning on this project? :mortar_board:
-<li>
-    <ul>
+<ul>
+    <li>
         React useState :floppy_disk:
-    </ul>
-    <ul>
+    </li>
+    <li>
         React Map Objects :game_die:
-    </ul>
-    <ul>
+    </li>
+    <li>
         React useEffects :book:
-    </ul>
-    <ul>
+    </li>
+    <li>
         React Forms :memo:
-    </ul>
-</li>
+    </li>
+</ul>
