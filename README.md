@@ -13,15 +13,18 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ### What i'm learning on this project? :mortar_board:
 <ul>
     <li>
-        React useState :floppy_disk:
+        State :floppy_disk:
     </li>
     <li>
-        React Map Objects :game_die:
+        Event Listeners :ear:
     </li>
     <li>
-        React useEffects :book:
+        Side Effects :pushpin:
     </li>
     <li>
-        React Forms :memo:
+       Conditional Rendering :question:
+    </li>
+    <li>
+        Forms :memo:
     </li>
 </ul>
